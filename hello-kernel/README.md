@@ -1,4 +1,4 @@
-**Hello-kernel**
+# Hello-kernel
 
 Prints KERN_ALERT message on init and on exit.
 

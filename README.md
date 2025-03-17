@@ -11,4 +11,4 @@ Modules:
   3.) IN PROGRESS - Character Device module.
   
 
-Inpsiration and reference for the code is from _Linux Device Drivers_, 3rd Edition. Freely available here: https://lwn.net/Kernel/LDD3/
+Inpsiration and reference for the code is from _Linux Device Drivers_, 3rd Edition. 
